@@ -18,6 +18,7 @@ np.char.lower(ch_name)
 
 np.char.upper(ch_name)
 
+
 # Align the string into center 60 basically give the legnth
 np.char.center(ch_name,60)
 
