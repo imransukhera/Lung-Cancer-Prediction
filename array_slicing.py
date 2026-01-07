@@ -1,3 +1,5 @@
+#%%
+
 import numpy as np
 
 # Creating the array of 100 element by 10=row and 10=column 2 dimensions array
@@ -61,3 +63,5 @@ find_dim = arr_2d.dtype
 
 print(find_dim)
 
+
+# %%
